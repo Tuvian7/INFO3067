@@ -73,7 +73,8 @@
     "MSRP": 28000.0,
     "QTY": 5,
     "BACKORDER": 0,
-    "DESC": "The Honda Accord sedan provides a blend of luxury and performance with its spacious interiors, sleek design, and advanced technology features."
+    "DESC": "The Honda Accord sedan provides a blend of luxury and performance with its spacious interiors, sleek design, and advanced technology features.",
+    "BRAND": "Honda"
   },
   {
     "ID": "08",
