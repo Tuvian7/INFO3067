@@ -7,7 +7,7 @@
     "MSRP": 30000.0,
     "QTY": 10,
     "BACKORDER": 2,
-    "DESC": "This is a Toyota Camry sedan.",
+    "DESC": "The Toyota Camry is a sophisticated sedan that brings together comfort and luxury with its powerful performance, safety features, and dependability.",
     "BRAND": "Toyota"
   },
   {
@@ -18,7 +18,7 @@
     "MSRP": 24000.0,
     "QTY": 8,
     "BACKORDER": 0,
-    "DESC": "This is a Toyota Corolla compact sedan.",
+    "DESC": "The Toyota Corolla, a compact sedan known for its fuel efficiency and robust performance, is perfect for city commutes and long drives, thanks to its superior safety features.",
     "BRAND": "Toyota"
   },
   {
@@ -29,7 +29,7 @@
     "MSRP": 32000.0,
     "QTY": 6,
     "BACKORDER": 1,
-    "DESC": "This is a Toyota RAV4 SUV.",
+    "DESC": "The Toyota RAV4 is a reliable SUV that boasts spacious interiors, comfort, and a plethora of high-tech features. Its potent engine balances power and fuel economy.",
     "BRAND": "Toyota"
   },
   {
@@ -40,7 +40,7 @@
     "MSRP": 40000.0,
     "QTY": 12,
     "BACKORDER": 0,
-    "DESC": "This is a Toyota Highlander SUV.",
+    "DESC": "The Toyota Highlander SUV offers a comfortable ride with its spacious interiors and advanced features. Known for its durability and performance, it is ideal for families and long journeys.",
     "BRAND": "Toyota"
   },
   {
@@ -51,7 +51,7 @@
     "MSRP": 32000.0,
     "QTY": 9,
     "BACKORDER": 1,
-    "DESC": "This is a Toyota Prius hybrid car.",
+    "DESC": "The Toyota Prius, a hybrid car, is renowned for its superior fuel efficiency and environmentally friendly features. With its sleek design and high-tech interior, it offers a comfortable driving experience.",
     "BRAND": "Toyota"
   },
   {
@@ -62,7 +62,7 @@
     "MSRP": 26000.0,
     "QTY": 7,
     "BACKORDER": 0,
-    "DESC": "This is a Honda Civic compact car.",
+    "DESC": "The Honda Civic compact car is known for its stylish design, performance, and fuel efficiency. With a comfortable interior and advanced safety features, it is perfect for both city and highway driving.",
     "BRAND": "Honda"
   },
   {
@@ -73,7 +73,7 @@
     "MSRP": 28000.0,
     "QTY": 5,
     "BACKORDER": 0,
-    "DESC": "This is a Honda Accord sedan.",
+    "DESC": "The Honda Accord sedan provides a blend of luxury and performance with its spacious interiors, sleek design, and advanced technology features. Its impressive fuel efficiency makes it a top choice among sedan lovers.",
     "BRAND": "Honda"
   },
   {
@@ -84,7 +84,7 @@
     "MSRP": 32000.0,
     "QTY": 9,
     "BACKORDER": 1,
-    "DESC": "This is a Honda CR-V SUV.",
+    "DESC": "The Honda CR-V is a versatile SUV with comfortable interiors, advanced safety features, and robust performance. Its fuel efficiency and ample cargo space make it suitable for families and long trips.",
     "BRAND": "Honda"
   },
   {
@@ -95,7 +95,7 @@
     "MSRP": 42000.0,
     "QTY": 4,
     "BACKORDER": 0,
-    "DESC": "This is a Honda Pilot SUV.",
+    "DESC": "The Honda Pilot SUV is spacious, comfortable, and loaded with features. With a powerful engine, ample cargo space, and advanced safety features, it is perfect for family adventures.",
     "BRAND": "Honda"
   },
   {
@@ -106,7 +106,7 @@
     "MSRP": 40000.0,
     "QTY": 6,
     "BACKORDER": 1,
-    "DESC": "This is a Honda Odyssey minivan.",
+    "DESC": "The Honda Odyssey is a minivan designed for the modern family. With its spacious interiors, advanced safety features, and powerful performance, it is perfect for city commutes and long journeys.",
     "BRAND": "Honda"
   },
   {
@@ -117,7 +117,7 @@
     "MSRP": 27000.0,
     "QTY": 6,
     "BACKORDER": 0,
-    "DESC": "This is a Subaru Impreza compact car.",
+    "DESC": "The Subaru Impreza is a compact car that combines style and performance. Known for its fuel efficiency, reliability, and sporty looks, it offers a fun driving experience in the city and on the open road.",
     "BRAND": "Subaru"
   },
   {
@@ -128,40 +128,4 @@
     "MSRP": 32000.0,
     "QTY": 5,
     "BACKORDER": 0,
-    "DESC": "This is a Subaru Outback SUV.",
-    "BRAND": "Subaru"
-  },
-  {
-    "ID": "13",
-    "PRD": "Subaru Forester",
-    "GRPH": "Forester",
-    "COST": 26000.0,
-    "MSRP": 30000.0,
-    "QTY": 8,
-    "BACKORDER": 1,
-    "DESC": "This is a Subaru Forester SUV.",
-    "BRAND": "Subaru"
-  },
-  {
-    "ID": "14",
-    "PRD": "Subaru Legacy",
-    "GRPH": "Legacy",
-    "COST": 25000.0,
-    "MSRP": 29000.0,
-    "QTY": 4,
-    "BACKORDER": 0,
-    "DESC": "This is a Subaru Legacy sedan.",
-    "BRAND": "Subaru"
-  },
-  {
-    "ID": "15",
-    "PRD": "Subaru Crosstrek",
-    "GRPH": "Crosstrek",
-    "COST": 24000.0,
-    "MSRP": 28000.0,
-    "QTY": 7,
-    "BACKORDER": 1,
-    "DESC": "This is a Subaru Crosstrek compact SUV.",
-    "BRAND": "Subaru"
-  }
-]
+    "DESC": "The Subaru Outback is a sturdy SUV with a roomy interior and plenty of cargo space. With its all-wheel drive and high ground clearance, it is perfect for off-road adventures and family trips.",
