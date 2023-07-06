@@ -1,0 +1,167 @@
+[
+  {
+    "ID": "01",
+    "PRD": "Toyota Camry",
+    "GRPH": "Camry",
+    "COST": 25000.0,
+    "MSRP": 30000.0,
+    "QTY": 10,
+    "BACKORDER": 2,
+    "DESC": "This is a Toyota Camry sedan.",
+    "BRAND": "Toyota"
+  },
+  {
+    "ID": "02",
+    "PRD": "Toyota Corolla",
+    "GRPH": "Corolla",
+    "COST": 20000.0,
+    "MSRP": 24000.0,
+    "QTY": 8,
+    "BACKORDER": 0,
+    "DESC": "This is a Toyota Corolla compact sedan.",
+    "BRAND": "Toyota"
+  },
+  {
+    "ID": "03",
+    "PRD": "Toyota RAV4",
+    "GRPH": "RAV4",
+    "COST": 28000.0,
+    "MSRP": 32000.0,
+    "QTY": 6,
+    "BACKORDER": 1,
+    "DESC": "This is a Toyota RAV4 SUV.",
+    "BRAND": "Toyota"
+  },
+  {
+    "ID": "04",
+    "PRD": "Toyota Highlander",
+    "GRPH": "Highlander",
+    "COST": 35000.0,
+    "MSRP": 40000.0,
+    "QTY": 12,
+    "BACKORDER": 0,
+    "DESC": "This is a Toyota Highlander SUV.",
+    "BRAND": "Toyota"
+  },
+  {
+    "ID": "05",
+    "PRD": "Toyota Prius",
+    "GRPH": "Prius",
+    "COST": 28000.0,
+    "MSRP": 32000.0,
+    "QTY": 9,
+    "BACKORDER": 1,
+    "DESC": "This is a Toyota Prius hybrid car.",
+    "BRAND": "Toyota"
+  },
+  {
+    "ID": "06",
+    "PRD": "Honda Civic",
+    "GRPH": "Civic",
+    "COST": 22000.0,
+    "MSRP": 26000.0,
+    "QTY": 7,
+    "BACKORDER": 0,
+    "DESC": "This is a Honda Civic compact car.",
+    "BRAND": "Honda"
+  },
+  {
+    "ID": "07",
+    "PRD": "Honda Accord",
+    "GRPH": "Accord",
+    "COST": 24000.0,
+    "MSRP": 28000.0,
+    "QTY": 5,
+    "BACKORDER": 0,
+    "DESC": "This is a Honda Accord sedan.",
+    "BRAND": "Honda"
+  },
+  {
+    "ID": "08",
+    "PRD": "Honda CR-V",
+    "GRPH": "CR-V",
+    "COST": 28000.0,
+    "MSRP": 32000.0,
+    "QTY": 9,
+    "BACKORDER": 1,
+    "DESC": "This is a Honda CR-V SUV.",
+    "BRAND": "Honda"
+  },
+  {
+    "ID": "09",
+    "PRD": "Honda Pilot",
+    "GRPH": "Pilot",
+    "COST": 38000.0,
+    "MSRP": 42000.0,
+    "QTY": 4,
+    "BACKORDER": 0,
+    "DESC": "This is a Honda Pilot SUV.",
+    "BRAND": "Honda"
+  },
+  {
+    "ID": "10",
+    "PRD": "Honda Odyssey",
+    "GRPH": "Odyssey",
+    "COST": 35000.0,
+    "MSRP": 40000.0,
+    "QTY": 6,
+    "BACKORDER": 1,
+    "DESC": "This is a Honda Odyssey minivan.",
+    "BRAND": "Honda"
+  },
+  {
+    "ID": "11",
+    "PRD": "Subaru Impreza",
+    "GRPH": "Impreza",
+    "COST": 23000.0,
+    "MSRP": 27000.0,
+    "QTY": 6,
+    "BACKORDER": 0,
+    "DESC": "This is a Subaru Impreza compact car.",
+    "BRAND": "Subaru"
+  },
+  {
+    "ID": "12",
+    "PRD": "Subaru Outback",
+    "GRPH": "Outback",
+    "COST": 28000.0,
+    "MSRP": 32000.0,
+    "QTY": 5,
+    "BACKORDER": 0,
+    "DESC": "This is a Subaru Outback SUV.",
+    "BRAND": "Subaru"
+  },
+  {
+    "ID": "13",
+    "PRD": "Subaru Forester",
+    "GRPH": "Forester",
+    "COST": 26000.0,
+    "MSRP": 30000.0,
+    "QTY": 8,
+    "BACKORDER": 1,
+    "DESC": "This is a Subaru Forester SUV.",
+    "BRAND": "Subaru"
+  },
+  {
+    "ID": "14",
+    "PRD": "Subaru Legacy",
+    "GRPH": "Legacy",
+    "COST": 25000.0,
+    "MSRP": 29000.0,
+    "QTY": 4,
+    "BACKORDER": 0,
+    "DESC": "This is a Subaru Legacy sedan.",
+    "BRAND": "Subaru"
+  },
+  {
+    "ID": "15",
+    "PRD": "Subaru Crosstrek",
+    "GRPH": "Crosstrek",
+    "COST": 24000.0,
+    "MSRP": 28000.0,
+    "QTY": 7,
+    "BACKORDER": 1,
+    "DESC": "This is a Subaru Crosstrek compact SUV.",
+    "BRAND": "Subaru"
+  }
+]
