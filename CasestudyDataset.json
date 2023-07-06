@@ -51,7 +51,7 @@
     "MSRP": 32000.0,
     "QTY": 9,
     "BACKORDER": 1,
-    "DESC": "The Toyota Prius, a hybrid car, is renowned for its superior fuel efficiency and environmentally friendly features. With its sleek design and high-tech interior, it offers a comfortable driving experience.",
+    "DESC": "The Toyota Prius, a hybrid car, is renowned for its superior fuel efficiency and environmentally friendly features.",
     "BRAND": "Toyota"
   },
   {
@@ -62,7 +62,7 @@
     "MSRP": 26000.0,
     "QTY": 7,
     "BACKORDER": 0,
-    "DESC": "The Honda Civic compact car is known for its stylish design, performance, and fuel efficiency. With a comfortable interior and advanced safety features, it is perfect for both city and highway driving.",
+    "DESC": "The Honda Civic compact car is known for its stylish design, performance, and fuel efficiency. With a comfortable interior it is perfect for both city and highway driving.",
     "BRAND": "Honda"
   },
   {
@@ -73,8 +73,7 @@
     "MSRP": 28000.0,
     "QTY": 5,
     "BACKORDER": 0,
-    "DESC": "The Honda Accord sedan provides a blend of luxury and performance with its spacious interiors, sleek design, and advanced technology features. Its impressive fuel efficiency makes it a top choice among sedan lovers.",
-    "BRAND": "Honda"
+    "DESC": "The Honda Accord sedan provides a blend of luxury and performance with its spacious interiors, sleek design, and advanced technology features."
   },
   {
     "ID": "08",
@@ -84,7 +83,7 @@
     "MSRP": 32000.0,
     "QTY": 9,
     "BACKORDER": 1,
-    "DESC": "The Honda CR-V is a versatile SUV with comfortable interiors, advanced safety features, and robust performance. Its fuel efficiency and ample cargo space make it suitable for families and long trips.",
+    "DESC": "The Honda CR-V is a versatile SUV with comfortable interiors, advanced safety features, and robust performance.",
     "BRAND": "Honda"
   },
   {
@@ -95,7 +94,7 @@
     "MSRP": 42000.0,
     "QTY": 4,
     "BACKORDER": 0,
-    "DESC": "The Honda Pilot SUV is spacious, comfortable, and loaded with features. With a powerful engine, ample cargo space, and advanced safety features, it is perfect for family adventures.",
+    "DESC": "The Honda Pilot SUV is spacious, comfortable, and loaded with features. With a powerful engine it is perfect for family adventures.",
     "BRAND": "Honda"
   },
   {
@@ -106,7 +105,7 @@
     "MSRP": 40000.0,
     "QTY": 6,
     "BACKORDER": 1,
-    "DESC": "The Honda Odyssey is a minivan designed for the modern family. With its spacious interiors, advanced safety features, and powerful performance, it is perfect for city commutes and long journeys.",
+    "DESC": "The Honda Odyssey is a minivan designed for the modern family. With its powerful performance it is perfect for city commutes and long journeys.",
     "BRAND": "Honda"
   },
   {
@@ -117,7 +116,7 @@
     "MSRP": 27000.0,
     "QTY": 6,
     "BACKORDER": 0,
-    "DESC": "The Subaru Impreza is a compact car that combines style and performance. Known for its fuel efficiency, reliability, and sporty looks, it offers a fun driving experience in the city and on the open road.",
+    "DESC": "The Subaru Impreza is a compact car that combines style and performance. Known for its fuel efficiency, reliability, and sporty looks.",
     "BRAND": "Subaru"
   },
   {
@@ -139,7 +138,7 @@
     "MSRP": 30000.0,
     "QTY": 8,
     "BACKORDER": 1,
-    "DESC": "The Subaru Forester is a compact SUV offering spacious interiors, excellent visibility, and superior safety features. With its robust engine and standard all-wheel drive, it delivers impressive on-road and off-road performance.",
+    "DESC": "The Subaru Forester is a compact SUV offering spacious interiors, excellent visibility, and superior safety features.",
     "BRAND": "Subaru"
   },
   {
@@ -150,7 +149,7 @@
     "MSRP": 29000.0,
     "QTY": 4,
     "BACKORDER": 0,
-    "DESC": "The Subaru Legacy is a midsize sedan offering a smooth ride, spacious interiors, and advanced safety features. With its all-wheel drive and fuel-efficient engine, it provides a balanced driving experience in all conditions.",
+    "DESC": "The Subaru Legacy is a midsize sedan offering a smooth ride, spacious interiors, and advanced safety features.",
     "BRAND": "Subaru"
   },
   {
@@ -161,7 +160,7 @@
     "MSRP": 28000.0,
     "QTY": 7,
     "BACKORDER": 1,
-    "DESC": "The Subaru Crosstrek is a compact SUV that offers off-road capabilities with city driving comfort. It stands out with its high ground clearance, spacious interior, and fuel efficiency. Equipped with standard all-wheel drive and advanced safety features.",
+    "DESC": "The Subaru Crosstrek is a compact SUV that offers off-road capabilities with city driving comfort. It stands out with its high ground clearance, spacious interior, and fuel efficiency.",
     "BRAND": "Subaru"
   }
 ]
