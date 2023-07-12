@@ -1,6 +1,6 @@
 [
   {
-    "ID": "01",
+    "ID": "TCam1234",
     "PRD": "Toyota Camry",
     "GRPH": "Camry",
     "COST": 25000.0,
@@ -11,7 +11,7 @@
     "BRAND": "Toyota"
   },
   {
-    "ID": "02",
+    "ID": "TCor5678",
     "PRD": "Toyota Corolla",
     "GRPH": "Corolla",
     "COST": 20000.0,
@@ -22,7 +22,7 @@
     "BRAND": "Toyota"
   },
   {
-    "ID": "03",
+    "ID": "TRav9102",
     "PRD": "Toyota RAV4",
     "GRPH": "RAV4",
     "COST": 28000.0,
@@ -33,7 +33,7 @@
     "BRAND": "Toyota"
   },
   {
-    "ID": "04",
+    "ID": "THig3456",
     "PRD": "Toyota Highlander",
     "GRPH": "Highlander",
     "COST": 35000.0,
@@ -44,7 +44,7 @@
     "BRAND": "Toyota"
   },
   {
-    "ID": "05",
+    "ID": "TPri7890",
     "PRD": "Toyota Prius",
     "GRPH": "Prius",
     "COST": 28000.0,
@@ -55,7 +55,7 @@
     "BRAND": "Toyota"
   },
   {
-    "ID": "06",
+    "ID": "HCiv1123",
     "PRD": "Honda Civic",
     "GRPH": "Civic",
     "COST": 22000.0,
@@ -66,7 +66,7 @@
     "BRAND": "Honda"
   },
   {
-    "ID": "07",
+    "ID": "HAcc4567",
     "PRD": "Honda Accord",
     "GRPH": "Accord",
     "COST": 24000.0,
@@ -77,7 +77,7 @@
     "BRAND": "Honda"
   },
   {
-    "ID": "08",
+    "ID": "HCRV8911",
     "PRD": "Honda CR-V",
     "GRPH": "CR-V",
     "COST": 28000.0,
@@ -88,7 +88,7 @@
     "BRAND": "Honda"
   },
   {
-    "ID": "09",
+    "ID": "HPil1245",
     "PRD": "Honda Pilot",
     "GRPH": "Pilot",
     "COST": 38000.0,
@@ -99,7 +99,7 @@
     "BRAND": "Honda"
   },
   {
-    "ID": "10",
+    "ID": "HOdy6789",
     "PRD": "Honda Odyssey",
     "GRPH": "Odyssey",
     "COST": 35000.0,
@@ -110,7 +110,7 @@
     "BRAND": "Honda"
   },
   {
-    "ID": "11",
+    "ID": "SImp9134",
     "PRD": "Subaru Impreza",
     "GRPH": "Impreza",
     "COST": 23000.0,
@@ -121,7 +121,7 @@
     "BRAND": "Subaru"
   },
   {
-    "ID": "12",
+    "ID": "SOut5671",
     "PRD": "Subaru Outback",
     "GRPH": "Outback",
     "COST": 28000.0,
@@ -132,7 +132,7 @@
     "BRAND": "Subaru"
   },
   {
-    "ID": "13",
+    "ID": "SFor8912",
     "PRD": "Subaru Forester",
     "GRPH": "Forester",
     "COST": 26000.0,
@@ -143,7 +143,7 @@
     "BRAND": "Subaru"
   },
   {
-    "ID": "14",
+    "ID": "SLeg3458",
     "PRD": "Subaru Legacy",
     "GRPH": "Legacy",
     "COST": 25000.0,
@@ -154,14 +154,14 @@
     "BRAND": "Subaru"
   },
   {
-    "ID": "15",
+    "ID": "SCro7893",
     "PRD": "Subaru Crosstrek",
     "GRPH": "Crosstrek",
-    "COST": 24000.0,
-    "MSRP": 28000.0,
-    "QTY": 7,
+    "COST": 23000.0,
+    "MSRP": 27000.0,
+    "QTY": 5,
     "BACKORDER": 1,
-    "DESC": "This is a Subaru Crosstrek compact SUV.",
+    "DESC": "This is a Subaru Crosstrek SUV.",
     "BRAND": "Subaru"
   }
 ]
